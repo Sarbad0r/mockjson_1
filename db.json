@@ -1,7 +1,6 @@
 {
   "users": [
     {"id" : 1, "title":"hello every one", "login" : "some@gmai.com", "password": "123", "img" : "https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F5%2F4%2F1%2F144469.jpg&text=kaylo%20ren%204k%20full%20hd&lr=10318&rpt=simage"},
-     {"id" : 2, "title":"hello every one", "login" : "some@gmai.com", "password": "123", "img" : "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fwww.gamersdecide.com%2Fsites%2Fdefault%2Ffiles%2Fauthors%2Fu151813%2Fkylo.jpg&text=kaylo%20ren%204k%20full%20hd&lr=10318&rpt=simage"},
     {"id" : 3, "title":"hello every one", "login" : "some@gmai.com", "password": "123", "img" : "https://yandex.ru/images/search?text=kaylo%20ren%204k%20full%20hd&from=tabbar&pos=24&rpt=simage&img_url=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp10022438.jpg&lr=10318"}
   ]
 }
