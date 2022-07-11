@@ -1,0 +1,29 @@
+{
+    "mainFood": [
+        {
+            "name": "Курутоб",
+            "image": "https://www.molbulak.ru/upload/medialibrary/6d7/12.JPG",
+            "stars": 5
+        },
+        {
+            "name": "Ош",
+            "image": "https://screenbeauty.com/image/wallpapers/pilaf-uzbek-dish-dish-91262.jpg",
+            "stars": 5
+        },
+        {
+            "name": "Манту",
+            "image": "https://pigmine.ru/wp-content/uploads/0/2/2/022d0b432a06e1abc40c22402dcce099.jpeg",
+            "stars": 5
+        },
+        {
+            "name": "Шакароб",
+            "image": "https://www.molbulak.ru/upload/medialibrary/6d7/12.JPG",
+            "stars": 5
+        },
+        {
+            "name": "Фатиршурбо",
+            "image": "https://foodperestroika.com/wp-content/uploads/2013/10/Qurutob10-featured.jpg",
+            "stars": 5
+        }
+    ]
+}
